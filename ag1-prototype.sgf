@@ -1,5 +1,4 @@
-
-(;GM[1]AP[GOWrite:2.3.46]CA[UTF-8]ST[2]FF[4]SZ[19]RE[W+Resign]GN[AlphaGo vs AlPhaGo 1]PM[2]PB[Alphago]RU[Chinese]PW[AlphaGo]KM[7.50]FG[259:]
+(;GM[1]AP[Sabaki:0.31.5]CA[UTF-8]ST[2]FF[4]SZ[19]RE[W+Resign]GN[AlphaGo vs AlPhaGo 1]PM[2]PB[Alphago]RU[Chinese]PW[AlphaGo]KM[7.50]FG[259:]
 ;B[pd]
 ;W[dd]
 ;B[qp]
@@ -10,10 +9,8 @@
 ;W[qf]
 ;B[nc]
 ;W[pp]
-(
-;B[pq]
-(
-;W[kp]C[\[DIAGRAM 1\: 1-12\]
+(;B[pq]
+(;W[kp]C[[DIAGRAM 1: 1-12\]
 
 L   	Black 1-7 resemble the Small Chinese opening?
 K   	Correct. It is a popular combination, as many players like Black’s speedy extension on the bottom side.
@@ -24,13 +21,12 @@ K   	In the game, however, White attached directly at 10! Right in the face of B
 L   	Whoa…That’s so intense! Anyone who plays this type of move must be a maestro.
 K   	It gets even better. When Black hane’s at 11, White attaches for a second time at 12! (Diagram 1)
 ]
-(
-;B[lp]
+(;B[lp]
 ;W[jq]
 ;B[lq]
 ;W[qo]
 ;B[qq]
-;W[pk]C[\[DIAGRAM 2\: 13-18\]
+;W[pk]C[[DIAGRAM 2: 13-18\]
 
 In the game sequence, therefore, Black 13 hane’s from the right side. This still allows White to make two consecutive hane’s at 14 and 16, followed by a large move at 18. I really like how fast and flexible White’s development has become. (Diagram 2)
 L   	I’m not fully grasping the concept, anyway…Even Ke Jie would probably be surprised by this idea. (laughs)
@@ -273,9 +269,7 @@ K   	Isn’t that great, though? AlphaGo’s moves have really redefined our kno
 ;W[ko]
 ;B[cr]
 ;W[ao]
-)
-(
-;B[jp]
+)(;B[jp]
 ;W[lq]
 ;B[jq]
 ;W[oq]
@@ -284,47 +278,33 @@ K   	Isn’t that great, though? AlphaGo’s moves have really redefined our kno
 ;B[qq]
 ;W[oo]
 ;B[pn]
-;W[lp]C[\[VARIATION 5\]
+;W[lp]C[[VARIATION 5\]
 
 L   	So White 12 in the game is a real head-scratcher, no? I think one would hane from the left, but that would also provide a cozy refuge for White on the bottom side. (Variation 5)
 K   	Right…which would be too good an outcome for White. ]
-;
-)
-
-)
-(
-;W[qo]
+))(;W[qo]
 ;B[op]
 ;W[po]
 ;B[qq]
 ;W[oo]
 ;B[np]
-;W[pk]C[\[VARIATION 2\]
+;W[pk]C[[VARIATION 2\]
 
 L   	The first follow-up that comes to mind is White’s hane from the right. Black 2 would atari and defend the corner, but White would also gain a comfortable base on the side. Seems legitimate to me? (Variation 2)
 K   	Hmm, White would seem to enjoy a good shape.
-L   	Yeah. I feel like there’s more subtlety in the game sequence, however\; something mystic and powerful in the order of White’s moves.]
-(
-;
-)
-(
-;L[kp][jp]AB[jp]AW[kp]C[\[VARIATION 3\]
+L   	Yeah. I feel like there’s more subtlety in the game sequence, however; something mystic and powerful in the order of White’s moves.]
+(;
+)(;L[kp][jp]AB[jp]AW[kp]C[[VARIATION 3\]
 
 K   	Agreed. See, if White attached at A after the previous sequence, Black would just hane at B. It would occur that White had failed to fully utilize the aji on the bottom side, despite having done so on the right. (Variation 3)]
-;
-)
-
-)
-
-(
-;W[oq]
+))(;W[oq]
 ;B[po]
 ;W[op]
 ;B[qq]
 ;W[oo]
 ;B[pn]
 ;W[kp]
-;B[lp]C[\[VARIATION 4\]
+;B[lp]C[[VARIATION 4\]
 
 L   	That’s why they call you the Amateur Master (online alias used by AlphaGo in December 2016). What if White hane’d from the bottom immediately?
 K   	Oh, then we’d see Black counter-attacking at 8 when White attaches at 7. It’s going to make White’s sabaki game difficult. (Variation 4)
@@ -332,12 +312,7 @@ L   	Just a moment…Gotta take off this jacket and dry it first.
 K   	Afraid of water spilling into your brains?
 L   	Hey, don’t throw cheap shots at me…(laughs) I think that would be indeed harsh for the White group, however.
 K   	Exactly.]
-;
-)
-
-)
-(
-;B[po]
+))(;B[po]
 ;W[qq]
 ;B[op]
 ;W[pq]
@@ -346,11 +321,9 @@ K   	Exactly.]
 ;B[np]
 ;W[nq]
 ;B[mp]
-;W[pj]C[\[VARIATION 1\]
+;W[pj]C[[VARIATION 1\]
 
 L   	I’m not hallucinating, am I? Goodness, two attachments already.
 K   	Normally…I feel that Black’s 11 is quite reasonable. If Black chose to hane on the outside, White would occupy Black’s corner territory in sente, before coming back to handle the top right stone. This would be quite an efficient plan for White. (Variation 1)
 L   	In other words, although Black would have nice influence, White would’ve been still happy with taking a decent corner and grabbing a crucial move on the right side?]
-)
-
-)
+))
