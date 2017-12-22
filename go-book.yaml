@@ -25,16 +25,16 @@ rootGrouping:
   generated: {}
   groupings: []
 sgfMapping:
-  ag1: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag1.sgf
-  ag2: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag2.sgf
-  ag3: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag3.sgf
-  ag4: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag4.sgf
-  ag5: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag5.sgf
-  ag6: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag6.sgf
-  ag7: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag7.sgf
-  ag8: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag8.sgf
-  ag9: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag9.sgf
-  ag10: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag10.sgf
+  ag1: sgfs/ag1.sgf
+  ag2: sgfs/ag2.sgf
+  ag3: sgfs/ag3.sgf
+  ag4: sgfs/ag4.sgf
+  ag5: sgfs/ag5.sgf
+  ag6: sgfs/ag6.sgf
+  ag7: sgfs/ag7.sgf
+  ag8: sgfs/ag8.sgf
+  ag9: sgfs/ag9.sgf
+  ag10: sgfs/ag10.sgf
 specOptions:
   positionType: GAME_COMMENTARY
   idGenType: PATH
@@ -54,7 +54,7 @@ diagramOptions:
   typeOptions: {}
 templateOptions:
   metadata:
-    id: 7c790714-7f18-458f-b640-6e12f5497dee
+    id: 8cf59f3c-da5c-42c5-8875-ec4d75a0cc4f
     title: My Go Book!
     subtitle: ''
     idType: uuid
@@ -68,7 +68,7 @@ templateOptions:
     rights: All Rights Reserved.
     publisher: ''
     authors: []
-    generationDate: '2017-12-22T06:40:50Z'
+    generationDate: '2017-12-22T06:55:17Z'
     publicationDate: ''
     addressLines: []
     permanenceOfPaper: true
