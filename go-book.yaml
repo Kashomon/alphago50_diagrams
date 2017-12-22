@@ -1,0 +1,80 @@
+version: V1
+rootGrouping:
+  positionType: GAME_COMMENTARY
+  positions:
+    - id: ag1
+      alias: ag1
+    - id: ag2
+      alias: ag2
+    - id: ag3
+      alias: ag3
+    - id: ag4
+      alias: ag4
+    - id: ag5
+      alias: ag5
+    - id: ag6
+      alias: ag6
+    - id: ag7
+      alias: ag7
+    - id: ag8
+      alias: ag8
+    - id: ag9
+      alias: ag9
+    - id: ag10
+      alias: ag10
+  generated: {}
+  groupings: []
+sgfMapping:
+  ag1: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag1.sgf
+  ag2: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag2.sgf
+  ag3: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag3.sgf
+  ag4: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag4.sgf
+  ag5: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag5.sgf
+  ag6: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag6.sgf
+  ag7: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag7.sgf
+  ag8: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag8.sgf
+  ag9: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag9.sgf
+  ag10: /Users/kashomon/inprogress/alphago50_diagrams/sgfs/ag10.sgf
+specOptions:
+  positionType: GAME_COMMENTARY
+  idGenType: PATH
+  problemConditions:
+    GB: []
+    C:
+      - Correct
+      - is correct
+  autoRotateCropTypes:
+    PROBLEM: true
+    POSITION_VARIATIONS: true
+  autoRotateGames: false
+diagramOptions:
+  diagramType: GNOS
+  boardRegion: AUTO
+  autoBoxCropOnVariation: false
+  typeOptions: {}
+templateOptions:
+  metadata:
+    id: 7c790714-7f18-458f-b640-6e12f5497dee
+    title: My Go Book!
+    subtitle: ''
+    idType: uuid
+    idName: baduk-epub-id
+    isbn10: ''
+    isbn13: ''
+    uriId: 'http://github.com/Kashomon/gpub'
+    lang: en
+    subject: 'Go, Baduk, Wei-qi, Board Games, Strategy Games'
+    description: ''
+    rights: All Rights Reserved.
+    publisher: ''
+    authors: []
+    generationDate: '2017-12-22T06:40:50Z'
+    publicationDate: ''
+    addressLines: []
+    permanenceOfPaper: true
+  frontmatter:
+    generateToc: true
+  appendices: {}
+  chapterSize: 25
+  pdfx1a: false
+  azw3Format: false
