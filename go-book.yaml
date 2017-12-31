@@ -54,7 +54,7 @@ diagramOptions:
   typeOptions: {}
 templateOptions:
   metadata:
-    id: 1a317f4b-8cfc-4e6d-9ec4-c47a560fa9f1
+    id: 5c4f7f77-619a-479c-96ad-3f0184c74014
     title: My Go Book!
     subtitle: ''
     idType: uuid
@@ -68,7 +68,7 @@ templateOptions:
     rights: All Rights Reserved.
     publisher: ''
     authors: []
-    generationDate: '2017-12-25T07:31:36Z'
+    generationDate: '2017-12-31T22:07:06Z'
     publicationDate: ''
     addressLines: []
     permanenceOfPaper: true

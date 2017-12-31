@@ -1,0 +1,14 @@
+\documentclass[12pt]{book}
+
+\usepackage{gnos}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{color}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{30pt}
+
+\begin{document}
+\input{diagrams/ag10__0__0-9.tex}
+\input{diagrams/ag10__0__0-9-comment.txt}
+\end{document}
