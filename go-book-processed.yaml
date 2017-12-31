@@ -83,26 +83,6 @@ rootGrouping:
           labels:
             - MAINLINE
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag1__0__0-12
-          - ag1__12__0-6
-          - ag1__18__0-238
-        VARIATION:
-          - ag1__10__1_0-9
-          - ag1__11__1_0-6
-          - ag1__11_1_0-6__1
-          - ag1__11__2_0-7
-          - ag1__12__1_0-9
-        GAME_COMMENTARY:
-          - ag1__0__0-12
-          - ag1__10__1_0-9
-          - ag1__11__1_0-6
-          - ag1__11_1_0-6__1
-          - ag1__11__2_0-7
-          - ag1__12__0-6
-          - ag1__12__1_0-9
-          - ag1__18__0-238
     ag2:
       id: ag2
       positionType: EXAMPLE
@@ -170,28 +150,6 @@ rootGrouping:
           labels:
             - MAINLINE
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag2__0__0-23
-          - ag2__23__0-28
-          - ag2__51__0-24
-          - ag2__75__0-217
-          - ag2__292__0-20
-        VARIATION:
-          - ag2__15__1_0
-          - ag2__15__2_0-9
-          - ag2__43__1_0-5
-          - ag2__110__1_0-3
-        GAME_COMMENTARY:
-          - ag2__0__0-23
-          - ag2__15__1_0
-          - ag2__15__2_0-9
-          - ag2__23__0-28
-          - ag2__43__1_0-5
-          - ag2__51__0-24
-          - ag2__75__0-217
-          - ag2__110__1_0-3
-          - ag2__292__0-20
     ag3:
       id: ag3
       positionType: EXAMPLE
@@ -252,26 +210,6 @@ rootGrouping:
           labels:
             - VARIATION
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag3__0__0-6
-          - ag3__6__0-7
-          - ag3__13__0-29
-          - ag3__42__0-164
-          - ag3__206__0
-        VARIATION:
-          - ag3__8__1_0-9
-          - ag3__12__1_0-8
-          - ag3__206__1_0-7
-        GAME_COMMENTARY:
-          - ag3__0__0-6
-          - ag3__6__0-7
-          - ag3__8__1_0-9
-          - ag3__12__1_0-8
-          - ag3__13__0-29
-          - ag3__42__0-164
-          - ag3__206__0
-          - ag3__206__1_0-7
     ag4:
       id: ag4
       positionType: EXAMPLE
@@ -360,34 +298,6 @@ rootGrouping:
           labels:
             - MAINLINE
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag4__0__0-11
-          - ag4__11__0-4
-          - ag4__15__0-2
-          - ag4__17__0-5
-          - ag4__22__0-22
-          - ag4__44__0-22
-          - ag4__66__0-178
-        VARIATION:
-          - ag4__10__1_0-7
-          - ag4__14__1
-          - ag4__19__1_0-6
-          - ag4__43__1_0
-          - ag4__65__1_0-3
-        GAME_COMMENTARY:
-          - ag4__0__0-11
-          - ag4__10__1_0-7
-          - ag4__11__0-4
-          - ag4__14__1
-          - ag4__15__0-2
-          - ag4__17__0-5
-          - ag4__19__1_0-6
-          - ag4__22__0-22
-          - ag4__43__1_0
-          - ag4__44__0-22
-          - ag4__65__1_0-3
-          - ag4__66__0-178
     ag5:
       id: ag5
       positionType: EXAMPLE
@@ -448,26 +358,6 @@ rootGrouping:
           labels:
             - MAINLINE
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag5__0__0-23
-          - ag5__23__0-2
-          - ag5__25__0-3
-          - ag5__28__0-279
-        VARIATION:
-          - ag5__22__1_0
-          - ag5__24__1_0-6
-          - ag5__27__1_0-5
-          - ag5__27__2_0-3
-        GAME_COMMENTARY:
-          - ag5__0__0-23
-          - ag5__22__1_0
-          - ag5__23__0-2
-          - ag5__24__1_0-6
-          - ag5__25__0-3
-          - ag5__27__1_0-5
-          - ag5__27__2_0-3
-          - ag5__28__0-279
     ag6:
       id: ag6
       positionType: EXAMPLE
@@ -542,30 +432,6 @@ rootGrouping:
           labels:
             - VARIATION
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag6__0__0-19
-          - ag6__19__0-4
-          - ag6__23__0-21
-          - ag6__44__0-3
-          - ag6__47__0-193
-        VARIATION:
-          - ag6__16__1_0-3
-          - ag6__18__1_0-5
-          - ag6__21__1_0-3
-          - ag6__46__1_0-13
-          - ag6__47__1_0-5
-        GAME_COMMENTARY:
-          - ag6__0__0-19
-          - ag6__16__1_0-3
-          - ag6__18__1_0-5
-          - ag6__19__0-4
-          - ag6__21__1_0-3
-          - ag6__23__0-21
-          - ag6__44__0-3
-          - ag6__46__1_0-13
-          - ag6__47__0-193
-          - ag6__47__1_0-5
     ag7:
       id: ag7
       positionType: EXAMPLE
@@ -612,22 +478,6 @@ rootGrouping:
           labels:
             - VARIATION
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag7__0__0-10
-          - ag7__10__0-7
-          - ag7__17__0-17
-          - ag7__34__0-238
-        VARIATION:
-          - ag7__10__1_0-3
-          - ag7__34__1_0-35
-        GAME_COMMENTARY:
-          - ag7__0__0-10
-          - ag7__10__0-7
-          - ag7__10__1_0-3
-          - ag7__17__0-17
-          - ag7__34__0-238
-          - ag7__34__1_0-35
     ag8:
       id: ag8
       positionType: EXAMPLE
@@ -702,30 +552,6 @@ rootGrouping:
           labels:
             - MAINLINE
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag8__0__0-56
-          - ag8__56__0-6
-          - ag8__62__0-4
-          - ag8__66__0-15
-          - ag8__81__0-155
-        VARIATION:
-          - ag8__2__1_0-17
-          - ag8__55__1_0-6
-          - ag8__62__1_0-2
-          - ag8__62__1-2_0-4
-          - ag8__65__1_0-2
-        GAME_COMMENTARY:
-          - ag8__0__0-56
-          - ag8__2__1_0-17
-          - ag8__55__1_0-6
-          - ag8__56__0-6
-          - ag8__62__0-4
-          - ag8__62__1_0-2
-          - ag8__62__1-2_0-4
-          - ag8__65__1_0-2
-          - ag8__66__0-15
-          - ag8__81__0-155
     ag9:
       id: ag9
       positionType: EXAMPLE
@@ -772,22 +598,6 @@ rootGrouping:
           labels:
             - MAINLINE
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag9__0__0-47
-          - ag9__47__0-8
-          - ag9__55__0-2
-          - ag9__57__0-198
-        VARIATION:
-          - ag9__46__1_0-2
-          - ag9__55__1_0-9
-        GAME_COMMENTARY:
-          - ag9__0__0-47
-          - ag9__46__1_0-2
-          - ag9__47__0-8
-          - ag9__55__0-2
-          - ag9__55__1_0-9
-          - ag9__57__0-198
     ag10:
       id: ag10
       positionType: EXAMPLE
@@ -834,22 +644,6 @@ rootGrouping:
           labels:
             - MAINLINE
             - GAME_COMMENTARY
-      labels:
-        MAINLINE:
-          - ag10__0__0-9
-          - ag10__9__0-3
-          - ag10__12__0-4
-          - ag10__16__0-250
-        VARIATION:
-          - ag10__8__1_0-16
-          - ag10__9__1_0-5
-        GAME_COMMENTARY:
-          - ag10__0__0-9
-          - ag10__8__1_0-16
-          - ag10__9__0-3
-          - ag10__9__1_0-5
-          - ag10__12__0-4
-          - ag10__16__0-250
   groupings: []
 sgfMapping:
   ag1: sgfs/ag1.sgf

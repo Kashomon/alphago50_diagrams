@@ -1,0 +1,18 @@
+# OSX Stuff
+.DS_Store
+
+# Vim stuff
+*.swp
+*.swo
+*~
+
+# LaTeX Files
+*.aux
+*.log
+*.pdf
+
+# Node dependency directory
+node_modules
+
+# Generated diagrams
+diagrams
