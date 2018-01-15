@@ -3,28 +3,28 @@ rootGrouping:
   positionType: GAME_COMMENTARY
   positions:
     - id: ag1
-      alias: ag1
+      gameId: ag1
     - id: ag2
-      alias: ag2
+      gameId: ag2
     - id: ag3
-      alias: ag3
+      gameId: ag3
     - id: ag4
-      alias: ag4
+      gameId: ag4
     - id: ag5
-      alias: ag5
+      gameId: ag5
     - id: ag6
-      alias: ag6
+      gameId: ag6
     - id: ag7
-      alias: ag7
+      gameId: ag7
     - id: ag8
-      alias: ag8
+      gameId: ag8
     - id: ag9
-      alias: ag9
+      gameId: ag9
     - id: ag10
-      alias: ag10
+      gameId: ag10
   generated: {}
   groupings: []
-sgfMapping:
+gameMapping:
   ag1: sgfs/ag1.sgf
   ag2: sgfs/ag2.sgf
   ag3: sgfs/ag3.sgf
@@ -47,6 +47,10 @@ specOptions:
     PROBLEM: true
     POSITION_VARIATIONS: true
   autoRotateGames: false
+  positionOverrides:
+    - gameId: 'ag2'
+      moveNumber: 292
+      showPreviousMoves: 5
 diagramOptions:
   diagramType: GNOS
   boardRegion: AUTO
@@ -54,7 +58,7 @@ diagramOptions:
   typeOptions: {}
 templateOptions:
   metadata:
-    id: a87eb008-5f7e-42a1-9170-0e3c0023d69d
+    id: d327bd35-4840-4058-86b6-b89033a7cf9d
     title: My Go Book!
     subtitle: ''
     idType: uuid
@@ -68,7 +72,7 @@ templateOptions:
     rights: All Rights Reserved.
     publisher: ''
     authors: []
-    generationDate: '2018-01-01T21:22:47Z'
+    generationDate: '2018-01-14T22:16:58Z'
     publicationDate: ''
     addressLines: []
     permanenceOfPaper: true
