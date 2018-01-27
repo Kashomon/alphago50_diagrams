@@ -47,10 +47,7 @@ specOptions:
     PROBLEM: true
     POSITION_VARIATIONS: true
   autoRotateGames: false
-  positionOverrides:
-    - gameId: 'ag2'
-      moveNumber: 292
-      showPreviousMoves: 5
+  positionOverrides: []
 diagramOptions:
   diagramType: GNOS
   boardRegion: AUTO
@@ -58,7 +55,7 @@ diagramOptions:
   typeOptions: {}
 templateOptions:
   metadata:
-    id: d327bd35-4840-4058-86b6-b89033a7cf9d
+    id: a46aa830-6e91-4785-9706-a396e081d696
     title: My Go Book!
     subtitle: ''
     idType: uuid
@@ -72,7 +69,7 @@ templateOptions:
     rights: All Rights Reserved.
     publisher: ''
     authors: []
-    generationDate: '2018-01-14T22:16:58Z'
+    generationDate: '2018-01-22T01:39:53Z'
     publicationDate: ''
     addressLines: []
     permanenceOfPaper: true
